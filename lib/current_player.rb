@@ -5,8 +5,10 @@ board.each do |place|
     count += 1
   end
 end
+return count
 end
 
 
 def current_player
 end
+  
